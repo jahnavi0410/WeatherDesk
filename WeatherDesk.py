@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding: utf-8
 
-# Copyright © 2016 Bharadwaj Raju <bharadwaj.raju777@gmail.com>
+# Copyright 2024 Bharadwaj Raju <bharadwaj.raju777@gmail.com>
 # All Rights Reserved.
 # This file is part of WeatherDesk.
 #

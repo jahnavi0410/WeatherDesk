@@ -95,7 +95,7 @@ def get_desktop_environment():
         elif is_running('ksmserver'):
             return 'kde'
 
-    return 'unknown'
+    return 'unknown file'
 
 
 def is_running(process):
